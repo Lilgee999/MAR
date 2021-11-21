@@ -9,9 +9,9 @@
 <h3 align="left">Installation:</h3>
 <p align="left">
 
-**$ pkg update**
+*$ pkg update*
 
-**$ pkg upgrade**
+*$ pkg upgrade*
 
 `$ pip2 install requests`
 
