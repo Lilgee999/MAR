@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Installation:</h3>
 <p align="left">
-
+`
 $ pkg update
 
 $ pkg upgrade
@@ -30,7 +30,7 @@ $ pip2 install bs4
 $ cd MARK-BEST999
 
 $ python2 PAID.py
-
+`
 INBOX ME FOR TOOL ACTIVATION
 (+2347013107449) ENJOY ❤️
 
