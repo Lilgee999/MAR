@@ -9,29 +9,29 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Installation:</h3>
 <p align="left">
-
-- pkg **update**
-
-- pkg **upgrade**
-
-- pip2 **install requests**
-
-- pkg **install python**
-
-- pkg **install python2**
-
-- pkg install git
 ```md
-- git clone [https://github.com/GUPTA-SHAKEL/MARK-BEST999.git](https://github.com/GUPTA-SHAKEL/MARK-BEST999.git)
+$ pkg update
+
+$ pkg upgrade
+
+$ pip2 install requests
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install git
+
+$ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git
+
+$ pip2 install mechanize
+
+$ pip2 install bs4
+
+$ cd MARK-BEST999
+
+$ python2 PAID.py
 ```
-- pip2 **install mechanize**
-
-- pip2 **install bs4**
-
-- cd [MARK-BEST999](MARK-BEST999)
-
-- python2 **PAID.py**
-
 
 INBOX ME FOR TOOL ACTIVATION
 (+2347013107449) ENJOY ❤️
