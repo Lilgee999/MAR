@@ -10,27 +10,27 @@
 <p align="left">
 
 `$ pkg update`
-`
+
 `$ pkg upgrade`
-`
+
 `$ pip2 install requests`
 
 `$ pkg install python`
-`
+
 `$ pkg install python2`
-`
+
 `$ pkg install git`
 
-$ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git
+`$ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git`
 
-$ pip2 install mechanize
+`$ pip2 install mechanize`
 
-$ pip2 install bs4
+`$ pip2 install bs4`
 
-$ cd MARK-BEST999
+`$ cd MARK-BEST999`
 
-$ python2 PAID.py
-`
+`$ python2 PAID.py`
+
 INBOX ME FOR TOOL ACTIVATION
 (+2347013107449) ENJOY ❤️
 
