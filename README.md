@@ -8,18 +8,18 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Installation:</h3>
 <p align="left">
-`
-$ pkg update
 
-$ pkg upgrade
+`$ pkg update`
 
-$ pip2 install requests
+`$ pkg upgrade`
 
-$ pkg install python
+`$ pip2 install requests`
 
-$ pkg install python2
+`$ pkg install python`
 
-$ pkg install git
+`$ pkg install python2`
+
+`$ pkg install git`
 
 $ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git
 
