@@ -1,4 +1,6 @@
-<h1 align="center"> 💊PREMIUM FAST CRACK TOOL FOR ALL COUNTRY 💊</h1>
+<h1 align="center"> 
+💊PREMIUM FAST CRACK TOOL FOR ALL COUNTRY 💊
+💊 PAID COMMAND ✅</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta-shakel&label=Profile%20views&color=0e75b6&style=flat" alt="gupta-shakel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gupta-shakel" alt="gupta-shakel" /></a> </p>
@@ -23,7 +25,7 @@
 
 - pip2 **install bs4**
 
-- cd [cd MARK-BEST999](cd MARK-BEST999)
+- cd [MARK-BEST999](MARK-BEST999)
 
 - python2 **PAID.py**
 
