@@ -10,15 +10,15 @@
 <p align="left">
 
 `$ pkg update`
-
+`
 `$ pkg upgrade`
-
+`
 `$ pip2 install requests`
 
 `$ pkg install python`
-
+`
 `$ pkg install python2`
-
+`
 `$ pkg install git`
 
 $ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git
