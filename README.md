@@ -10,7 +10,7 @@
 <h3 align="left">Installation:</h3>
 <p align="left">
 ```md
-
+```
 - pkg **update**
 
 - pkg **upgrade**
@@ -32,7 +32,6 @@
 - cd [MARK-BEST999](MARK-BEST999)
 
 - python2 **PAID.py**
-```md
 
 
 INBOX ME FOR TOOL ACTIVATION
