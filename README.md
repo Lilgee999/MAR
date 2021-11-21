@@ -9,8 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Installation:</h3>
 <p align="left">
-```md
-```
+
 - pkg **update**
 
 - pkg **upgrade**
@@ -22,9 +21,9 @@
 - pkg **install python2**
 
 - pkg install git
-
+```md
 - git clone [https://github.com/GUPTA-SHAKEL/MARK-BEST999.git](https://github.com/GUPTA-SHAKEL/MARK-BEST999.git)
-
+```
 - pip2 **install mechanize**
 
 - pip2 **install bs4**
