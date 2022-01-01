@@ -63,7 +63,7 @@ $ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git
 ```python2
 $ cd MARK-BEST999
 $ git pull
-$ python2 CODE.py
+$ python2 PREM-U.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
