@@ -8,7 +8,7 @@
 <a href="https://Instagram.com/mark.cornel97" target="_blank"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
 <a href="https://t.me/+fIHWKZnJ-ZpkMTNh"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/telegram.png" alt="alt text" width="25" height="25"></a>
 <a href="wa.me/+2347013107449"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/WhatsApp.png" alt="alt text" width="25" height="25"></a>
-<a href="https://www.facebook.com/Clinton.ngozi68" target="_blank"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MARK-TECH"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+<a href="https://www.facebook.com/greg.igbani.5" target="_blank"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MARK-TECH"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
   
 ____Programming And Memes____
@@ -57,15 +57,15 @@ $ pip2 install mechanize lolcat
 $ pip2 install requests bs4
 $ pip2 install futures
 $ apt install git
-$ git clone https://github.com/GUPTA-SHAKEL/MARK-BEST999.git
+$ git clone https://github.com/Lilgee999/Lilgee999.git
 ```
 #### RUN SCRIPT
 ```python2
-$ cd MARK-BEST999
+$ cd Lilgee999
 $ git pull
-$ python2 PREM-U.py
+$ python2 Greg.py 
 ```
-#### :closed_lock_with_key: KEY PASSWORD ⁉️
+#### :closed_lock_with_key: KEY PASSWORD greg2003
 
 #### JOIN WHATSAPP GROUP <br>
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/F4rycPfDLj7CDxGxWAEvWB)
